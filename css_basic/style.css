@@ -40,4 +40,77 @@ header, footer {
     float: none;
   }
 }
+/* Custom visual styling for Task 3 */
+
+/* Body and text */
+body {
+  background-color: #f4f4f9;
+  color: #333;
+}
+
+/* Header */
+header {
+  background-color: #ffffff;
+  border-bottom: 2px solid #e0e0e0;
+}
+
+header ul li a {
+  color: #333;
+  font-weight: bold;
+}
+
+.logo {
+  font-size: 32px;
+  margin-right: 10px;
+  color: #F80002;
+}
+
+/* Footer */
+footer {
+  background-color: #fff;
+  border-top: 1px solid #e0e0e0;
+  text-align: center;
+  color: #555;
+}
+
+/* Article */
+article {
+  background-color: #ffffff;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+/* Aside */
+aside {
+  background-color: #fafafa;
+  border-left: 3px solid #eee;
+}
+
+/* Table */
+table {
+  width: 100%;
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid #ccc;
+  text-align: left;
+}
+
+th {
+  background-color: #f0f0f0;
+}
+
+/* Links */
+a {
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #F80002;
+}
 
