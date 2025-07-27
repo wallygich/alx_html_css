@@ -1,0 +1,1 @@
+This project is part of the Front-End Web Development curriculum focusing on advanced CSS techniques. The goal is to create a responsive landing page for "SmileSchool" - a fictional platform for learning smiling techniques from professionals.
